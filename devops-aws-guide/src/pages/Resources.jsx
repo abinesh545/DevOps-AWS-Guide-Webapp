@@ -17,6 +17,7 @@ const Resources = () => {
       title: "YouTube Channels",
       icon: <MonitorPlay className="w-6 h-6 text-red-500" />,
       links: [
+        { name: "Abhishek Veeramalla (For DevOps and AWS)", url: "https://www.youtube.com/@AbhishekVeeramalla" },
         { name: "TechWorld with Nana", url: "https://www.youtube.com/c/TechWorldwithNana" },
         { name: "NetworkChuck (Networking/Linux)", url: "https://www.youtube.com/c/NetworkChuck" },
         { name: "Stephane Maarek (AWS)", url: "https://www.youtube.com/c/StephaneMaarek" }
