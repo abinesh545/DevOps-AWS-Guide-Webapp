@@ -23,7 +23,7 @@ const Navbar = ({ darkMode, toggleTheme }) => {
             <Cloud className="text-aws-light h-8 w-8" />
             <Terminal className="text-devops-light h-6 w-6" />
             <span className="font-bold text-xl ml-2 bg-clip-text text-transparent bg-gradient-to-r from-aws-dark to-devops-dark dark:from-aws-light dark:to-devops-light">
-              DevOps&Cloud Guide
+              Tech & Teach
             </span>
           </div>
 
